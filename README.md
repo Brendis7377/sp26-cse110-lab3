@@ -1,2 +1,4 @@
-# Lab 2 - Starter
-published site link: https://brendis7377.github.io/Lab2_Starter/
+# CSE 110 Lab 3 
+published site link: https://brendis7377.github.io/sp26-cse110-lab3/
+
+
